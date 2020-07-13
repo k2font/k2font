@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on NTT Communications.
+- 🌱 I’m currently learning C++, Rust and TypeScript. Also I’m learning Web Browser architecture and NoSQL.
+
 <!--
 **k2font/k2font** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
