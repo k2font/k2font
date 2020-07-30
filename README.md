@@ -4,9 +4,9 @@
 
 <p align="center">
 💗TypeScript
-💗Rust
 💗競プロ(C++)
 💗🍣
+✍Rust
 </p>
 
 
