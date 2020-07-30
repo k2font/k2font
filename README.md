@@ -1,4 +1,5 @@
-![super sushi](https://giphy.com/embed/zH4czCC7fXD6U)
+![giphy](https://user-images.githubusercontent.com/6561417/88893446-4ea0da00-d281-11ea-9f40-c5561c5ebff8.gif)
+
 <p><a href="https://giphy.com/gifs/weird-food-fish-zH4czCC7fXD6U">via GIPHY</a></p>
 
 <!--
