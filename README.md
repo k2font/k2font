@@ -6,6 +6,7 @@
 💗TypeScript
 💗競プロ(C++)
 ✍Rust
+✍WebAssembly
 </p>
 
 
