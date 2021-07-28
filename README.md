@@ -3,10 +3,7 @@
 </p>
 
 <p align="center">
-💗TypeScript
-💗競プロ(C++)
-✍Rust
-✍WebAssembly
+寿司を食らえ
 </p>
 
 
