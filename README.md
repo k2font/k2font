@@ -1,9 +1,5 @@
 <p align="center">
-  <img alt="Super Sushi" src="https://user-images.githubusercontent.com/6561417/88893446-4ea0da00-d281-11ea-9f40-c5561c5ebff8.gif" width="240" height="184" />
-</p>
-
-<p align="center">
-寿司を食らえ
+TypeScriptを書いてWebアプリケーションをつくります
 </p>
 
 
