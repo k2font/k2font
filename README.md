@@ -1,5 +1,5 @@
 <p align="center">
-TypeScriptを書いてWebアプリケーションをつくります
+TypeScriptを書いてWebアプリケーションをつくってました
 </p>
 
 
