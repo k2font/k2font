@@ -1,6 +1,6 @@
-<p align="center">
-TypeScriptを書いてWebアプリケーションをつくってました
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,gcp,azure)](https://skillicons.dev)
+
+
 
 
 <!--
