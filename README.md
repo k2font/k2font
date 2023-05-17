@@ -1,3 +1,6 @@
+# Shoichiro(k2font)
+I am a software engineer developing web applications. I like backend.
+
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,gcp,azure)](https://skillicons.dev)
 
 
