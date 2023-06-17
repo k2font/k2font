@@ -3,7 +3,12 @@ I am a software engineer developing web applications. I like backend and cloud i
 
 [![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,react,gcp,azure)](https://skillicons.dev)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=k2font&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k2font&layout=compact" />
+</a>
 
 
 <!--
