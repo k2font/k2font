@@ -3,7 +3,7 @@ I am a off-day software engineer developing web applications. I like backend and
 
 My occupation is a support engineer for a low-code development platform.
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,react,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,nodejs,go,react,gcp,azure,docker)](https://skillicons.dev)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats-mocha-nine.vercel.app/api?username=k2font&count_private=true" />
