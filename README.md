@@ -9,7 +9,7 @@ My occupation is a support engineer for a low-code development platform.
   <img align="left" src="https://github-readme-stats-mocha-nine.vercel.app/api?username=k2font&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats-mocha-nine.vercel.app/api/top-langs/?username=k2font&layout=compact&hide=c%2B%2B" />
+  <img align="left" src="https://github-readme-stats-mocha-nine.vercel.app/api/top-langs/?username=k2font&layout=compact" />
 </a>
 
 
