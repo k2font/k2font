@@ -1,5 +1,5 @@
 # Shoichiro
-I am a off-day software engineer developing web applications. I like backend and cloud infrastructure but I am also studying frontend.
+I am a weekend software engineer developing web applications. I like backend and cloud infrastructure but I am also studying frontend.
 
 My occupation is a support engineer for a low-code development platform.
 
